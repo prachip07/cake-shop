@@ -1,0 +1,25 @@
+body{/*
+    height: 100%;
+    width: 100%; 
+    background-color: rgb(209, 165, 18);*/
+background-image: url(../app/images/bg_1.jpg);
+    height:100%;
+    background-size: cover;
+    width:100% ;
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    width: 100%;
+    padding: 5em;
+    height: 100%;
+}
+
+.container{
+    width: 100%;
+    height: fit-content;
+}

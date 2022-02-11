@@ -1,0 +1,29 @@
+.p1{
+    font-size: 150px;
+    color:navajowhite;
+}
+.img1{
+    background-image: url(../images/dish1.jpg);
+
+}
+.img2{
+    background-image: url(../images/dish2.jpg);
+}
+.img3{
+    background-image: url(../images/dish3.jpg);
+}
+.img4{
+    background-image: url(../images/dish4.jpg);
+}
+.img5{
+    background-image: url(../images/dish5.jpg);
+}
+.img6{
+    background-image: url(../images/dish6.jpg);
+}
+p{
+    font-size: 100px;
+}
+th{
+    padding:25px ;
+}

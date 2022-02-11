@@ -1,0 +1,37 @@
+h1{
+    color:rgb(73, 178, 219);
+}
+
+nav{
+    justify-self:right;
+    color: rgb(107, 173, 32);
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    float: right;
+}
+
+li a{
+    padding: 1.6em;
+    color: moccasin;
+    font-size:20px;
+    text-transform: uppercase;
+}
+
+li a:hover{
+    background-color:rgb(185, 98, 27);
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 25px;
+    color: navajowhite;
+}

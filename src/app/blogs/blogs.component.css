@@ -1,0 +1,18 @@
+li{font-family: 'uni_neueregular';
+font-size: 50px;
+color: #000;
+font-weight: 400;
+list-style-type: none;
+box-sizing: border-box;
+float: left;
+width: 46%;
+padding: 100px;
+}
+p{
+    font-size: 30px;
+    
+}
+h1{
+    font-size: 130px;
+    color:lightyellow;
+}
